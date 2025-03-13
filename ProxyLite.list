@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,6bcloud.top
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,icc2022.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
